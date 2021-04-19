@@ -1,7 +1,7 @@
 # 𝗟𝗼𝘄𝗛𝗶𝗳𝗶
 
-Par Lucas & Jérémy
-*Le dossier extra contient un apperçu de l'index ainsi que la base de donnée*
+Par Lucas & Jérémy  
+*Le dossier EXTRA contient un apperçu de l'index en .png ainsi que la base de donnée .sql*
 
 ### Table des Matières
 
