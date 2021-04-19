@@ -8,6 +8,7 @@ Par Lucas & Jérémy
 > [Progression](#Progression)  
 > [Partie I](#Partie-I)  
 > [Partie II](#Partie-II)  
+> [Partie III](#Partie-III)  
 > [Module](#Module-Utilisé)  
 > [Apperçu](#Apperçu)
 
