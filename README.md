@@ -8,7 +8,7 @@ Par Lucas & Jérémy
 > [Progression](#Progression)  
 > [Partie I](#Partie-I)  
 > [Partie II](#Partie-II)  
-> [Module](#Module-Nécessaire)
+> [Module](#Module-Utilisé.s)
 
 ### Contexte
 La société LowHifi est une société commerciale en ligne spécialisée dans les produits audiovisuels "grand public" qu’elle
