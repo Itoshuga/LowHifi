@@ -1,6 +1,6 @@
 # 𝗟𝗼𝘄𝗛𝗶𝗳𝗶
 
-Par Lucas ~~& Jérémy~~
+Par Lucas & Jérémy
 
 ### Table des Matières
 
