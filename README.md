@@ -8,7 +8,7 @@ Par Lucas & Jérémy
 > [Progression](#Progression)  
 > [Partie I](#Partie-I)  
 > [Partie II](#Partie-II)  
-> [Module](#Module-Utilisé.s)
+> [Module](#Module-Utilisé)
 
 ### Contexte
 La société LowHifi est une société commerciale en ligne spécialisée dans les produits audiovisuels "grand public" qu’elle
@@ -50,7 +50,7 @@ d’un site de e-commerce pour ainsi économiser l’envoi du catalogue et gagne
  ❌Afficher la liste des commandes non réglées  
  ❌Afficher une page de statistiques (CA par mois, CA par catégorie, Montant de la commande la plus élevée)  
  
-### Module Utilisé.s
+### Module Utilisé
 
 Fpdf :  
 http://www.fpdf.org/fr/dl.php?v=182&f=zip
