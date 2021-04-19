@@ -32,7 +32,7 @@ d’un site de e-commerce pour ainsi économiser l’envoi du catalogue et gagne
  ✔️ Pouvoir filtrer selon la catégorie — **#L** / **#J** 13/11/2020  
  ✔️Afficher les détails d'un produits — **#L**  
  ✔️ Connecter & Deconnecter un Utilisateur — **#L**  
-.
+
 ### Partie II
   
  ✔️Visualisation du panier — **#L** 20/11/2020  
