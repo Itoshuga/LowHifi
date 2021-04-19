@@ -1,6 +1,7 @@
 # 𝗟𝗼𝘄𝗛𝗶𝗳𝗶
 
 Par Lucas & Jérémy
+*Le dossier extra contient un apperçu de l'index ainsi que la base de donnée*
 
 ### Table des Matières
 
